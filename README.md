@@ -19,5 +19,5 @@ Project Description : Here I have tried to implement some of the functions in ma
                       4. min function.
                       5. msquare  function.
                       6. mcube function.
-                      7. mpowl function.
+                      7. mpowf function.
                       This is a new math.h header file consisting of above functions.
