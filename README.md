@@ -20,4 +20,6 @@ Project Description : Here I have tried to implement some of the functions in ma
                       5. msquare  function.
                       6. mcube function.
                       7. mpowf function.
+                      8. mroundl function.
+			                9. area_rect function.
                       This is a new math.h header file consisting of above functions. This project accepts function name function inputs and outputs from file and then compares the computed output with the output in file and gives the result as test case pass or fail.
